@@ -6,7 +6,7 @@ O scrapy é uma ferramenta utilizada para realizar web-scrapring de sites, muito
 
 # To do
 
-- [ ] Subir o projeto para o github
+- [X] Subir o projeto para o github
 - [ ] Realizar a configuração inicial com a instalação dos pacotes necessários com o poetry
 - [ ] Construção do spider
 - [ ] Atualizar o readme com os comandos necessários para rodar
